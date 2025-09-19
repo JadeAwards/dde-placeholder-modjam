@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pissfriend.png">
+<SubTexture name="pissfriend down0000" x="0" y="566" width="172" height="179" frameX="-3" frameY="-5" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0001" x="0" y="566" width="172" height="179" frameX="-3" frameY="-5" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0002" x="677" y="370" width="172" height="183" frameX="0" frameY="-1" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0003" x="677" y="370" width="172" height="183" frameX="0" frameY="-1" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0004" x="677" y="186" width="170" height="184" frameX="0" frameY="0" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0005" x="677" y="186" width="170" height="184" frameX="0" frameY="0" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend down0006" x="677" y="186" width="170" height="184" frameX="0" frameY="0" frameWidth="175" frameHeight="184" />
+<SubTexture name="pissfriend idle0000" x="508" y="0" width="169" height="187" frameX="0" frameY="-2" frameWidth="169" frameHeight="190" />
+<SubTexture name="pissfriend idle0001" x="508" y="0" width="169" height="187" frameX="0" frameY="-2" frameWidth="169" frameHeight="190" />
+<SubTexture name="pissfriend idle0002" x="0" y="0" width="169" height="190" frameX="0" frameY="0" frameWidth="169" frameHeight="190" />
+<SubTexture name="pissfriend idle0003" x="0" y="0" width="169" height="190" frameX="0" frameY="0" frameWidth="169" frameHeight="190" />
+<SubTexture name="pissfriend left0000" x="169" y="0" width="169" height="189" frameX="0" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0001" x="169" y="0" width="169" height="189" frameX="0" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0002" x="338" y="0" width="170" height="189" frameX="-2" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0003" x="338" y="0" width="170" height="189" frameX="-2" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0004" x="0" y="190" width="170" height="189" frameX="-3" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0005" x="0" y="190" width="170" height="189" frameX="-3" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend left0006" x="0" y="190" width="170" height="189" frameX="-3" frameY="0" frameWidth="173" frameHeight="189" />
+<SubTexture name="pissfriend right0000" x="344" y="379" width="170" height="186" frameX="-3" frameY="-2" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0001" x="344" y="379" width="170" height="186" frameX="-3" frameY="-2" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0002" x="170" y="190" width="169" height="188" frameX="-1" frameY="0" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0003" x="170" y="190" width="169" height="188" frameX="-1" frameY="0" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0004" x="339" y="190" width="169" height="188" frameX="0" frameY="0" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0005" x="339" y="190" width="169" height="188" frameX="0" frameY="0" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend right0006" x="339" y="190" width="169" height="188" frameX="0" frameY="0" frameWidth="173" frameHeight="188" />
+<SubTexture name="pissfriend up0000" x="0" y="379" width="172" height="187" frameX="0" frameY="0" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0001" x="0" y="379" width="172" height="187" frameX="0" frameY="0" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0002" x="172" y="379" width="172" height="187" frameX="0" frameY="0" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0003" x="172" y="379" width="172" height="187" frameX="0" frameY="0" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0004" x="677" y="0" width="172" height="186" frameX="0" frameY="-1" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0005" x="677" y="0" width="172" height="186" frameX="0" frameY="-1" frameWidth="172" frameHeight="187" />
+<SubTexture name="pissfriend up0006" x="677" y="0" width="172" height="186" frameX="0" frameY="-1" frameWidth="172" frameHeight="187" />
+</TextureAtlas>

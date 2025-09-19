@@ -1,0 +1,80 @@
+{
+	"camera_boyfriend": [
+		102,
+		275
+	],
+	"_editorMeta": {
+		"boyfriend": "placeholderbfinvisible",
+		"gf": "gf",
+		"dad": "scrapped"
+	},
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		910,
+		320
+	],
+	"defaultZoom": 0.8,
+	"objects": [
+		{
+			"x": -82,
+			"y": 19,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bgscrapped",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "scrapped",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "bgscrapped idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		735,
+		140
+	],
+	"directory": "",
+	"camera_speed": 10,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		14,
+		152
+	]
+}

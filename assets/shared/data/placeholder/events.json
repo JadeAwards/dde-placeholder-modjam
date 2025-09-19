@@ -1,0 +1,19 @@
+{
+	"events": [
+		[
+			104096.385542169,
+			[
+				["Change Character", "dad", "scrapped"],
+				["Change Character", "bf", "placeholderbfinvisible"]
+			]
+		],
+		[
+			127228.915662651,
+			[
+				["Change Character", "dad", "placeholderdude"],
+				["Change Character", "bf", "boy"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

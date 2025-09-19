@@ -1,0 +1,45 @@
+{
+	"storyName": "DDE: Placeholder",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"The Necessary Ohungi Song",
+			"darn",
+			[
+				153,
+				229,
+				80
+			]
+		],
+		[
+			"Placeholder",
+			"whitedude",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Song 1",
+			"thegirlslol",
+			[
+				209,
+				209,
+				209
+			]
+		]
+	],
+	"weekName": "DDE: Placeholder",
+	"hiddenUntilUnlocked": false
+}

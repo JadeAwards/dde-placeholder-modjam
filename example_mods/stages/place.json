@@ -1,0 +1,113 @@
+{
+	"camera_boyfriend": [
+		150,
+		112
+	],
+	"_editorMeta": {
+		"boyfriend": "boy",
+		"gf": "gf",
+		"dad": "placeholderdude"
+	},
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		730,
+		-60
+	],
+	"defaultZoom": 1.4,
+	"objects": [
+		{
+			"x": 238,
+			"y": 245,
+			"scale": [
+				1,
+				1
+			],
+			"image": "place",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "place",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "place idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 238,
+			"y": 245,
+			"scale": [
+				1,
+				1
+			],
+			"image": "fuckingchair",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fuckingchair",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "fuckingchair idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		285,
+		75
+	],
+	"directory": "",
+	"camera_speed": 10,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		165,
+		-60
+	]
+}

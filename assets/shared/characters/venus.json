@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "venus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "venus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "venus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "venus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 3],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "venus right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/venus",
+	"position": [-450, -160],
+	"healthicon": "thegirlslol",
+	"flip_x": false,
+	"healthbar_colors": [209, 209, 209],
+	"camera_position": [-430, 220],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

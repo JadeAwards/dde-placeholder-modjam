@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stik.png">
+<SubTexture name="stik idle0000" x="0" y="894" width="158" height="336" frameX="-1426" frameY="-586" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0001" x="520" y="894" width="158" height="326" frameX="-1426" frameY="-586" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0002" x="362" y="894" width="158" height="328" frameX="-1426" frameY="-584" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0003" x="1142" y="0" width="162" height="340" frameX="-1424" frameY="-584" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0004" x="1142" y="340" width="162" height="340" frameX="-1424" frameY="-584" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0005" x="974" y="352" width="168" height="350" frameX="-1422" frameY="-582" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0006" x="736" y="526" width="168" height="352" frameX="-1422" frameY="-582" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik idle0007" x="974" y="0" width="168" height="352" frameX="-1422" frameY="-582" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik left0000" x="486" y="526" width="250" height="356" frameX="-1296" frameY="-570" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik left0001" x="158" y="894" width="204" height="332" frameX="-1342" frameY="-600" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik left0002" x="246" y="526" width="240" height="364" frameX="-1306" frameY="-568" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik left0003" x="0" y="526" width="246" height="368" frameX="-1300" frameY="-564" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik left0004" x="722" y="0" width="252" height="370" frameX="-1296" frameY="-564" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0000" x="0" y="0" width="222" height="526" frameX="-1400" frameY="-394" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0001" x="222" y="0" width="166" height="462" frameX="-1414" frameY="-462" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0002" x="388" y="0" width="164" height="460" frameX="-1414" frameY="-464" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0003" x="552" y="0" width="170" height="458" frameX="-1414" frameY="-462" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0004" x="1464" y="1058" width="84" height="136" frameX="-1462" frameY="-726" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik up0005" x="1616" y="812" width="100" height="166" frameX="-1468" frameY="-748" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0000" x="678" y="894" width="282" height="310" frameX="-1486" frameY="-638" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0001" x="960" y="894" width="234" height="308" frameX="-1476" frameY="-640" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0002" x="640" y="1230" width="212" height="220" frameX="-1476" frameY="-668" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0003" x="1068" y="1230" width="218" height="188" frameX="-1476" frameY="-682" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0004" x="852" y="1230" width="216" height="214" frameX="-1476" frameY="-658" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik right0005" x="1304" y="0" width="160" height="304" frameX="-1458" frameY="-610" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0000" x="0" y="1230" width="342" height="266" frameX="-1314" frameY="-658" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0001" x="1464" y="0" width="332" height="282" frameX="-1312" frameY="-636" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0002" x="342" y="1230" width="298" height="240" frameX="-1346" frameY="-650" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0003" x="1464" y="548" width="284" height="264" frameX="-1348" frameY="-638" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0004" x="1464" y="282" width="294" height="266" frameX="-1348" frameY="-640" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stik down0005" x="1464" y="812" width="152" height="246" frameX="-1426" frameY="-662" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

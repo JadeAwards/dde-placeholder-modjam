@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [52, -6],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "FUCKHEAD right alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [20, -41],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "FUCKHEAD up alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, 4],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "FUCKHEAD down alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-33, -31],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "FUCKHEAD left alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-4, 3],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "FUCKHEAD left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [3, 2],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "FUCKHEAD down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-1, 1],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "FUCKHEAD up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 5],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "FUCKHEAD right0",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "FUCKHEAD idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/FUCKHEAD",
+	"position": [0, 540],
+	"healthicon": "darn",
+	"flip_x": false,
+	"healthbar_colors": [148, 255, 0],
+	"camera_position": [-130, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tinyabyss.png">
+<SubTexture name="tinyabyss idle0000" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0001" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0002" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0003" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0004" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0005" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0006" x="0" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0007" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0008" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0009" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0010" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0011" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0012" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0013" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0014" x="578" y="0" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0015" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0016" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0017" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0018" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0019" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0020" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="tinyabyss idle0021" x="0" y="578" width="578" height="578" frameX="-598" frameY="-366" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

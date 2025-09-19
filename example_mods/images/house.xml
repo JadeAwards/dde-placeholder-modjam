@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="house.png">
+<SubTexture name="house idle0000" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0001" x="1920" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0002" x="0" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0003" x="1920" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0004" x="0" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0005" x="1920" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0006" x="3840" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0007" x="3840" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0008" x="3840" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0009" x="0" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0010" x="1920" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0011" x="3840" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0012" x="0" y="4320" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0013" x="1920" y="4320" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0014" x="3840" y="4320" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0015" x="5760" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0016" x="5760" y="1080" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0017" x="5760" y="2160" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0018" x="5760" y="3240" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0019" x="5760" y="4320" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0020" x="0" y="5400" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="house idle0021" x="1920" y="5400" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

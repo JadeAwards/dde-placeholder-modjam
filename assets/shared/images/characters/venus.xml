@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="venus.png">
+<SubTexture name="venus idle0000" x="1134" y="0" width="228" height="358" frameX="-464" frameY="-562" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0001" x="1362" y="358" width="228" height="356" frameX="-454" frameY="-564" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0002" x="1134" y="358" width="228" height="358" frameX="-452" frameY="-562" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0003" x="232" y="742" width="226" height="362" frameX="-456" frameY="-558" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0004" x="906" y="0" width="228" height="366" frameX="-462" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0005" x="454" y="0" width="228" height="370" frameX="-468" frameY="-550" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0006" x="0" y="0" width="228" height="372" frameX="-474" frameY="-548" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus idle0007" x="228" y="0" width="226" height="372" frameX="-478" frameY="-548" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0000" x="496" y="1460" width="258" height="322" frameX="-396" frameY="-598" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0001" x="242" y="1460" width="254" height="324" frameX="-402" frameY="-596" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0002" x="0" y="1460" width="242" height="332" frameX="-418" frameY="-588" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0003" x="1594" y="344" width="228" height="340" frameX="-438" frameY="-580" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0004" x="918" y="1108" width="224" height="348" frameX="-456" frameY="-572" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus left0005" x="0" y="1108" width="226" height="352" frameX="-470" frameY="-568" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0000" x="682" y="0" width="224" height="370" frameX="-476" frameY="-550" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0001" x="0" y="372" width="226" height="370" frameX="-472" frameY="-550" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0002" x="906" y="366" width="224" height="366" frameX="-474" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0003" x="458" y="742" width="224" height="362" frameX="-478" frameY="-558" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0004" x="906" y="742" width="224" height="360" frameX="-482" frameY="-560" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus up0005" x="682" y="372" width="224" height="364" frameX="-480" frameY="-556" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0000" x="1134" y="716" width="224" height="358" frameX="-582" frameY="-566" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0001" x="226" y="1108" width="230" height="352" frameX="-598" frameY="-572" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0002" x="456" y="1108" width="230" height="352" frameX="-594" frameY="-572" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0003" x="1362" y="714" width="226" height="356" frameX="-582" frameY="-568" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0004" x="682" y="742" width="224" height="362" frameX="-566" frameY="-562" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus right0005" x="226" y="372" width="224" height="368" frameX="-544" frameY="-556" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0000" x="1142" y="1108" width="232" height="344" frameX="-510" frameY="-574" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0001" x="1594" y="0" width="232" height="344" frameX="-504" frameY="-574" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0002" x="686" y="1108" width="232" height="350" frameX="-500" frameY="-568" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0003" x="1362" y="0" width="232" height="358" frameX="-496" frameY="-562" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0004" x="0" y="742" width="232" height="366" frameX="-492" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="venus down0005" x="450" y="372" width="232" height="368" frameX="-494" frameY="-552" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

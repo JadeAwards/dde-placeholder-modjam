@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-76, -15],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crazydarn left"
+		},
+		{
+			"offsets": [-25, -2],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crazydarn down"
+		},
+		{
+			"offsets": [2, 50],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crazydarn up"
+		},
+		{
+			"offsets": [-9, -33],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crazydarn right"
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "crazydarn idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/crazydarn",
+	"position": [0, 500],
+	"healthicon": "darn",
+	"flip_x": false,
+	"healthbar_colors": [148, 255, 0],
+	"camera_position": [-130, 40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

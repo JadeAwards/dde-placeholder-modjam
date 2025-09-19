@@ -1,0 +1,146 @@
+{
+	"camera_boyfriend": [
+		-150,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "stik",
+		"dad": "venus",
+		"gf": "malc"
+	},
+	"stageUI": "normal",
+	"boyfriend": [
+		1225,
+		200
+	],
+	"girlfriend": [
+		0,
+		155
+	],
+	"defaultZoom": 0.95,
+	"objects": [
+		{
+			"x": -82,
+			"y": 19,
+			"scale": [
+				1,
+				1
+			],
+			"image": "abyss",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "abyss",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 12,
+					"name": "abyss idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -462,
+			"y": -481,
+			"scale": [
+				1.6,
+				1.6
+			],
+			"image": "tinyabyss",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tinyabyss",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 12,
+					"name": "tinyabyss idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -82,
+			"y": 19,
+			"scale": [
+				1,
+				1
+			],
+			"image": "house",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "house",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 12,
+					"name": "house idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		565,
+		-100
+	],
+	"camera_speed": 10,
+	"directory": "",
+	"opponent": [
+		360,
+		185
+	],
+	"camera_opponent": [
+		50,
+		0
+	],
+	"hide_girlfriend": false
+}

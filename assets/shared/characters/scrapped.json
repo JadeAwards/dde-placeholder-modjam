@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "scrapped idle"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "scrapped down"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scrapped up"
+		},
+		{
+			"loop": false,
+			"offsets": [2, -1],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "scrapped right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-3, 0],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "scrapped left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/scrapped",
+	"position": [-280, -40],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-160, -180],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

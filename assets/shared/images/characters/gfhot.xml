@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfhot.png">
+<SubTexture name="gfhot idle0000" x="263" y="0" width="267" height="200" frameX="-27" frameY="-31" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0001" x="530" y="194" width="263" height="190" frameX="-27" frameY="-41" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0002" x="265" y="591" width="267" height="186" frameX="-27" frameY="-45" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0003" x="264" y="201" width="265" height="187" frameX="-27" frameY="-44" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0004" x="265" y="591" width="267" height="186" frameX="-27" frameY="-45" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0005" x="0" y="591" width="265" height="187" frameX="-27" frameY="-44" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0006" x="265" y="591" width="267" height="186" frameX="-27" frameY="-45" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0007" x="264" y="201" width="265" height="187" frameX="-27" frameY="-44" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0008" x="285" y="400" width="268" height="190" frameX="-26" frameY="-41" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0009" x="0" y="400" width="285" height="191" frameX="-20" frameY="-40" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0010" x="285" y="400" width="268" height="190" frameX="-26" frameY="-41" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0011" x="0" y="400" width="285" height="191" frameX="-20" frameY="-40" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0012" x="285" y="400" width="268" height="190" frameX="-26" frameY="-41" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0013" x="0" y="400" width="285" height="191" frameX="-20" frameY="-40" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0014" x="530" y="0" width="268" height="194" frameX="-27" frameY="-37" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0015" x="0" y="0" width="263" height="201" frameX="-27" frameY="-30" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0016" x="0" y="201" width="264" height="199" frameX="-27" frameY="-32" frameWidth="330" frameHeight="330" />
+<SubTexture name="gfhot idle0017" x="263" y="0" width="267" height="200" frameX="-27" frameY="-31" frameWidth="330" frameHeight="330" />
+</TextureAtlas>

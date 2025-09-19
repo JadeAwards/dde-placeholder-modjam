@@ -1,0 +1,234 @@
+{
+	"camera_boyfriend": [
+		112,
+		300
+	],
+	"_editorMeta": {
+		"boyfriend": "pissfriend",
+		"gf": "gfhot",
+		"dad": "FUCKHEAD"
+	},
+	"girlfriend": [
+		680,
+		-30
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		710,
+		-220
+	],
+	"defaultZoom": 1.5,
+	"objects": [
+		{
+			"x": 364,
+			"y": 197,
+			"scale": [
+				1,
+				1
+			],
+			"image": "skyfunny",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "skyfunny",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 364,
+			"y": 197,
+			"scale": [
+				1,
+				1
+			],
+			"image": "gayfloor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "gayfloor",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "gayfloor idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 718,
+			"y": 295,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Sun",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Sun",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 12,
+					"anim": "idle",
+					"loop": true,
+					"name": "sun"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": 552,
+			"y": 560,
+			"scale": [
+				0.8,
+				0.8
+			],
+			"image": "hungling2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "hungling2",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "hungling2 eatatakirun"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 952,
+			"y": 575,
+			"scale": [
+				0.7,
+				0.7
+			],
+			"image": "hungling1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "hungling1",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 12,
+					"anim": "idle",
+					"indices": [],
+					"name": "hungling1 jump"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 796,
+			"y": 634,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "Jungry",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Jungry",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 12,
+					"anim": "idle",
+					"loop": true,
+					"name": "Jungry"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		360,
+		55
+	],
+	"directory": "",
+	"camera_speed": 10,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		250,
+		0
+	]
+}

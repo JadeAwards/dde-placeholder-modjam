@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [195, 108],
+			"anim": "idle",
+			"fps": 12,
+			"name": "boy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [189, 108],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "boy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [192, 104],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "boy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [196, 116],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "boy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [192, 106],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "boy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [188, 114],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "boy 1miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [193, 109],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "boy 3miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [199, 117],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "boy 4miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [190, 106],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "boy 2miss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/boy",
+	"position": [-520, 390],
+	"healthicon": "placeholderbf",
+	"flip_x": true,
+	"healthbar_colors": [179, 173, 182],
+	"camera_position": [-300, -10],
+	"sing_duration": 6.1,
+	"scale": 0.5,
+	"_editor_isPlayer": true
+}

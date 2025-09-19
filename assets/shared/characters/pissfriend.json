@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-281, -330],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pissfriend left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-275, -336],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pissfriend down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-295, -331],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pissfriend right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-282, -333],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pissfriend up",
+			"indices": []
+		},
+		{
+			"offsets": [-289, -330],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "pissfriend idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/pissfriend",
+	"position": [120, 510],
+	"healthicon": "placeholderbf",
+	"flip_x": true,
+	"healthbar_colors": [179, 173, 182],
+	"camera_position": [0, 70],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

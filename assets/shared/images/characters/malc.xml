@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="malc.png">
+<SubTexture name="malc idle0000" x="628" y="730" width="230" height="334" frameX="-74" frameY="-572" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0001" x="982" y="1072" width="236" height="308" frameX="-68" frameY="-598" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0002" x="1218" y="1072" width="236" height="296" frameX="-70" frameY="-610" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0003" x="748" y="1072" width="234" height="312" frameX="-76" frameY="-594" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0004" x="1072" y="664" width="226" height="330" frameX="-88" frameY="-576" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0005" x="854" y="348" width="218" height="344" frameX="-100" frameY="-562" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0006" x="854" y="0" width="218" height="348" frameX="-112" frameY="-558" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc idle0007" x="0" y="730" width="212" height="342" frameX="-118" frameY="-564" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0000" x="486" y="374" width="234" height="350" frameX="-40" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0001" x="242" y="1072" width="278" height="318" frameX="0" frameY="-586" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0002" x="296" y="1394" width="290" height="272" frameX="0" frameY="-632" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0003" x="586" y="1394" width="304" height="266" frameX="0" frameY="-638" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0004" x="520" y="1072" width="228" height="318" frameX="-80" frameY="-586" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc left0005" x="0" y="374" width="274" height="356" frameX="-110" frameY="-550" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0000" x="0" y="0" width="220" height="374" frameX="-132" frameY="-532" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0001" x="428" y="0" width="216" height="372" frameX="-144" frameY="-534" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0002" x="220" y="0" width="208" height="374" frameX="-168" frameY="-532" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0003" x="644" y="0" width="210" height="360" frameX="-180" frameY="-546" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0004" x="274" y="374" width="212" height="352" frameX="-164" frameY="-554" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc up0005" x="1072" y="0" width="226" height="332" frameX="-140" frameY="-574" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0000" x="1514" y="0" width="270" height="276" frameX="-220" frameY="-632" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0001" x="890" y="1394" width="276" height="262" frameX="-220" frameY="-646" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0002" x="1166" y="1394" width="304" height="260" frameX="-220" frameY="-648" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0003" x="1470" y="1394" width="306" height="250" frameX="-220" frameY="-658" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0004" x="0" y="1394" width="296" height="274" frameX="-220" frameY="-634" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc right0005" x="0" y="1072" width="242" height="322" frameX="-210" frameY="-586" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0000" x="1298" y="0" width="216" height="324" frameX="-84" frameY="-582" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0001" x="1298" y="324" width="214" height="324" frameX="-100" frameY="-582" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0002" x="858" y="730" width="212" height="328" frameX="-110" frameY="-578" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0003" x="1072" y="332" width="208" height="332" frameX="-116" frameY="-574" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0004" x="420" y="730" width="208" height="336" frameX="-118" frameY="-570" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="malc down0005" x="212" y="730" width="208" height="338" frameX="-118" frameY="-568" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

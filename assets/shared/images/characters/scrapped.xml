@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scrapped.png">
+<SubTexture name="scrapped idle0000" x="0" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0001" x="925" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0002" x="1850" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0003" x="0" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0004" x="925" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0005" x="1850" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped idle0006" x="2775" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0000" x="2775" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0001" x="0" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0002" x="925" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0003" x="1850" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0004" x="2775" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped left0005" x="3700" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped right0000" x="3700" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped right0001" x="3700" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped right0002" x="0" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped right0003" x="925" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped right0004" x="1850" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0000" x="2775" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0001" x="3700" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0002" x="4625" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0003" x="4625" y="1069" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0004" x="4625" y="2138" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0005" x="4625" y="3207" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped down0006" x="0" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0000" x="925" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0001" x="1850" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0002" x="2775" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0003" x="3700" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0004" x="4625" y="4276" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+<SubTexture name="scrapped up0005" x="5550" y="0" width="925" height="1069" frameX="0" frameY="0" frameWidth="905" frameHeight="1049" />
+</TextureAtlas>

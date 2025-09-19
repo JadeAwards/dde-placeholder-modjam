@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hungling1.png">
+<SubTexture name="hungling1 jump0000" x="0" y="0" width="117" height="158" frameX="-98" frameY="-37" frameWidth="350" frameHeight="350" />
+<SubTexture name="hungling1 jump0001" x="117" y="0" width="107" height="155" frameX="-103" frameY="-73" frameWidth="350" frameHeight="350" />
+</TextureAtlas>
